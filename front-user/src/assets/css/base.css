@@ -1,0 +1,14 @@
+:root {
+    --brand-white: 255 255 255;
+    --brand-black: 0 0 0;
+
+    --brand-primary-300: 103 119 143;
+    --brand-primary-500: 28 52 88;
+    --brand-primary-700: 20 37 62;
+  
+    --brand-neutral-50: 239 239 239;
+    --brand-neutral-100: 204 204 204;
+    --brand-neutral-300: 146 146 146;
+    --brand-neutral-600: 84 84 84;
+    --brand-neutral-700: 65 65 65;
+}
